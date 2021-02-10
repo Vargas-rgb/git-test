@@ -1,0 +1,19 @@
+{
+  "name": "git-test",
+  "version": "1.0.0",
+  "description": "meu primeiro programa node js",
+  "main": "index.html",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Vargas-rgb/git-test.git"
+  },
+  "author": "Guilherme Vargas",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Vargas-rgb/git-test/issues"
+  },
+  "homepage": "https://github.com/Vargas-rgb/git-test#readme"
+}
